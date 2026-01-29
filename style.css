@@ -22,9 +22,9 @@ body {
     cursor: pointer;
     border: none;
     color: white;
-    background-color: hsla(110, 100%, 50%, 0.50);
+    background-color: hsla(300, 100%, 50%, 0.50);
 }
 
 #add-btn:hover {
-    background-color: hsla(110, 100%, 50%, 0.40);;
+    background-color: hsla(300, 100%, 50%, 0.40);;
 }
